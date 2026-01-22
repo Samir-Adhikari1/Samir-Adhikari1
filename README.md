@@ -29,7 +29,6 @@
 * 💻 **Cross-platform Development (Flutter)** – mobile & desktop applications
 * 🛠️ **Hardware & Embedded Systems** – Arduino, ESP modules, sensors, microcontrollers
 * ⚛️ **Quantum Computing** – qubits, quantum algorithms, and theoretical applications
-* 📊 **Mathematics & Linear Algebra** – calculus, linear algebra, probability, discrete math, and statistics
 * 🔧 **Version Control & Collaboration** – Git & GitHub for project management
 
 ---
