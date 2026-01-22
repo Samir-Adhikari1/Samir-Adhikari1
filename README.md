@@ -63,6 +63,7 @@
 
 ## 🌍 Additional Information
 
+* 🕰️ Age is 13 
 * 📍 Based in Kathmandu, Nepal
 * 🌐 Passionate about software, hardware, and next-generation computing
 * 🧩 Enjoys analytical challenges, creative problem-solving, and skill enhancement
