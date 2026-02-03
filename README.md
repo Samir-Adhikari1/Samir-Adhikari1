@@ -1,7 +1,7 @@
 # 👋 Hi, I am **Samir Adhikari** 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Cosmo;Python+Developer;Web+Developer;Hardware+%26+System+Developer;Quantum+Enthusiast;AI+%2F+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Cosmo;Python+Developer;Web+Developer+Designer;Hardware+%26+System+Developer;Quantum+Enthusiast;AI+%2F+Machine+Learning" />
 </p>
 
 ---
