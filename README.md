@@ -241,10 +241,10 @@
 <div align="center">
 
 [![Hand Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=Hand-Gesture-Controlled-Robotic-Hand&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/Hand-Gesture-Controlled-Robotic-Hand)
-[![Cosmic Forge](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=cosmic-forge-automotive&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/cosmic-forge-automotive)
+[![Smart Irrigation](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=Smart-Irrigation-System&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/Smart-Irrigation-System)
 
-[![QR App](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=flutter-qr-app&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/flutter-qr-app)
-[![Day Finder](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=cosmo-day-finder&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/cosmo-day-finder)
+[![CAR Configurator](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=CAR-Configurator&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/CAR-Configurator)
+[![Event Calendar](https://github-readme-stats.vercel.app/api/pin/?username=Samir-Adhikari1&repo=Event-Calendar&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=ff4500&text_color=ffffff)](https://github.com/Samir-Adhikari1/Event-Calendar)
 
 </div>
 
@@ -255,9 +255,9 @@
 | 🔥 Project | ⚙️ Stack | 📌 What It Does |
 |:---|:---|:---|
 | 🤖 **Hand-Gesture Robotic Hand** | Python · MediaPipe · OpenCV · Arduino · PCA9685 | Webcam → 14 joint angles → 5 live servo fingers |
-| 🚗 **COSMIC FORGE Automotive Studio** | Three.js · WebGL · HDRI · OrbitControls | Real-time 3D Lamborghini Huracán configurator |
-| 📱 **Flutter QR App** | Flutter · Dart | Cross-platform QR generator + scanner |
-| 🗓️ **COSMO Day Finder** | HTML · CSS · Vanilla JS | 200+ event engine, two-layer annual architecture |
+| 🌱 **Smart Irrigation System** | Arduino · Sensors · IoT · C++ | Automated sensor-driven plant irrigation controller |
+| 🚗 **CAR Configurator** | Three.js · WebGL · HDRI · OrbitControls | Real-time 3D automotive customization studio |
+| 🗓️ **Event Calendar** | HTML · CSS · Vanilla JS | 200+ event engine, two-layer annual architecture |
 
 </div>
 
